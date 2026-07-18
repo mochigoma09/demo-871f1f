@@ -1,2 +1,3 @@
 # demo-871f1f
-Auto generated demo site for ひがしやま動物病院
+
+AIによって自動生成された ひがしやま動物病院 様向けのデモサイトです。
